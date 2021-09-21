@@ -1,0 +1,28 @@
+.pagewrap {
+  width: 700px;
+  margin: auto;
+  border: 3px ridge black;
+}
+#main > header {
+  border: 2px solid red;
+  height: 200px;
+}
+img {
+  float: left;
+  width: 200px;
+  height: 200px;
+  border-radius: 50px;
+  margin-right: 20px;
+}
+.vcard {
+  border: 2px solid blue;
+  width: 350px;
+  float: left;
+}
+#skills {
+  border: 2px solid yellow;
+  width: 350px;
+}
+#education {
+  border: 2px solid green;
+}
